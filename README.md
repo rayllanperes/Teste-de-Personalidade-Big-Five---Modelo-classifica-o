@@ -8,7 +8,7 @@
 ### ◾Contexto:
 Os Cinco Grandes traços de personalidade, também conhecidos como modelo dos cinco fatores (FFM) e modelo OCEAN, são uma taxonomia, ou agrupamento, para traços de personalidade. Quando a análise fatorial (uma técnica estatística) é aplicada a dados de pesquisa de personalidade, algumas palavras usadas para descrever aspectos da personalidade são frequentemente aplicadas à mesma pessoa. Por exemplo, alguém descrito como consciencioso tem mais probabilidade de ser descrito como "sempre preparado" do que "bagunceiro". Esta teoria é baseada, portanto, na associação entre palavras, mas não em experimentos neuropsicológicos. Esta teoria usa descritores de linguagem comum e, portanto, sugere cinco dimensões amplas comumente usadas para descrever a personalidade e a psique humanas.
 
-**O conjunto de dados**
+### O conjunto de dados:
 
 Este conjunto de dados contém 1.015.342 respostas de questionários coletadas on-line pela Open Psychometrics .
 
@@ -50,9 +50,6 @@ Após carregar o conjunto de dados IPIP-FFM, realizamos uma análise exploratór
 
 Essa análise permitiu uma melhor compreensão da estrutura dos dados e serviu como base para a aplicação de técnicas de clusterização no projeto. 🚀
 
-### O conjunto de dados:
-
-Este conjunto de dados contém 1.015.342 respostas de questionários coletadas on-line pela Open Psychometrics .
 
 ### ◾Executando o teste.:
 
