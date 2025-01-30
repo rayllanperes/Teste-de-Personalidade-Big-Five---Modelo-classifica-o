@@ -56,7 +56,7 @@ Essa análise permitiu uma melhor compreensão da estrutura dos dados e serviu c
   ![Quantidade de grupos](https://github.com/user-attachments/assets/5aa2f374-0d8d-4cb7-8ada-6332c1e852ea)
 
 <p align="left">
-   Verificamos que o número ideal para essa base de dados é 5.
+   Verificamos que o número ideal de clusters para essa base de dados é 5.
 </p>
 
 
